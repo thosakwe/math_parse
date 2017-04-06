@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="math_parse" type="CMakeRunConfiguration" factoryName="Application" singleton="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="math_parse" TARGET_NAME="math_parse" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="math_parse" RUN_TARGET_NAME="math_parse">
+    <envs />
+    <method />
+  </configuration>
+</component>
